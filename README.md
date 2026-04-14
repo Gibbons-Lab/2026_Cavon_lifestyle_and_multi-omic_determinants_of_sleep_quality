@@ -75,6 +75,9 @@ All analyses were performed on a Linux-based high-performance computing environm
 The analyses and data visualizations were executed using a Jupyter Notebook environment and are expected to be compatible with standard Linux and macOS systems.
 
 ## Software Requirements
+
+---
+
 The following software environments and packages were used for the analyses:
 - Python (v3.11.5)
   #### Fitting individual-level microbial community-scale metabolic models
@@ -92,6 +95,9 @@ The following software environments and packages were used for the analyses:
   #### Data wrangling
   - pandas (v2.1.1)
   - numpy (v1.26.0)
+
+---
+
 - R (v4.4.2)
   #### Rarefying microbiome count table and computing microbiome alpha diversities
   - vegan (v2.7.2)
@@ -100,6 +106,8 @@ The following software environments and packages were used for the analyses:
   #### Data wrangling
   - tidyr (v1.3.2)
   - dplyr (v1.1.4)
+
+---
 
 ## Installation Guide
 
