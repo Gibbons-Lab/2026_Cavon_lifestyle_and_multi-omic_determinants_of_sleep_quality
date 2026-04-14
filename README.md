@@ -141,7 +141,7 @@ Installation of all dependencies typically takes approximately **15 minutes** on
 
 ## Demo
 
-### Instructions to Run Example Analyses
+### Instructions to Run Example Code
 
 Due to data availability restrictions, the dataset used for analyses can not be distributed with this repository. However, intermediate output data files are provided.
 
