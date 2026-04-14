@@ -195,6 +195,8 @@ The full analysis pipeline consists of the following steps:
 4. **Generate figures**
    - Each analysis directory contains notebooks that reproduce the corresponding manuscript figures and supplementary materials as described above.
 
+---
+
 ## Data Availability
 
 The datasets used in this study are not publicly available due to restrictions related to participant privacy and data use agreements.
